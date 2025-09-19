@@ -12,12 +12,10 @@
 
 ## 🎯 Featured Public Projects
 
+- 💰 **[Liquidytics](https://liquidytics.xyz/)** - Professional DeFi liquidity position tracking and analytics.
 - 🔗
   **[GoogleYoutubeRedirect](https://chromewebstore.google.com/detail/google-search-to-youtube/pioognemndfiikaapccdbcphgfdpgekp)** -
   Browser extension to redirect Google search results to YouTube videos
-- 💰 **[LP-Calculator](https://lp-calculator.pages.dev/)** - Web app
-  suite for DeFi liquidity providers, featuring calculators and
-  position tracking tools.
 - ⛽
   **[HyperEVM-Real-Time-Gas](https://chromewebstore.google.com/detail/hyperevm-real-time-gas/lbmelajajgmfmhfplcfhbgjlngmhbplm)** -
   Privacy-focused browser extension for real-time HyperEVM gas fee tracking
