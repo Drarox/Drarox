@@ -12,7 +12,7 @@
 
 ## 🎯 Featured Public Projects
 
-- 💰 **[Liquidytics](https://liquidytics.xyz/)** - Professional DeFi liquidity position tracking and analytics.
+- 💰 **[Liquidytics](https://liquidytics.xyz/)** - Professional DeFi liquidity position tracking and analytics
 - 🔗
   **[GoogleYoutubeRedirect](https://chromewebstore.google.com/detail/google-search-to-youtube/pioognemndfiikaapccdbcphgfdpgekp)** -
   Browser extension to redirect Google search results to YouTube videos
@@ -27,6 +27,7 @@
   with self-destructing links
 - ⚡ **[Backend-Benchmark](https://github.com/Drarox/Backend-Benchmark)** -
   Automated benchmarking suite for popular backend frameworks
+- ❤️ **[Health Connect Log](https://play.google.com/store/apps/details?id=com.healthconnectlog.health_connect_log)** - Log preset workouts to Health Connect
 - 🎮
   **[Flutter_2048](https://play.google.com/store/apps/details?id=com.yannickburkard.flutter2048)** -
   2048 game built with Flutter for iOS, Android and Web
