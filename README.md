@@ -43,6 +43,7 @@
 [![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)](https://bun.sh/)
 [![Fiber](https://img.shields.io/badge/Fiber-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://gofiber.io/)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+[![FastAPI](https://img.shields.io/badge/fastapi-%23009385.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 ### Databases
 
