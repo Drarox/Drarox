@@ -28,6 +28,7 @@
 - ⚡ **[Backend-Benchmark](https://github.com/Drarox/Backend-Benchmark)** -
   Automated benchmarking suite for popular backend frameworks
 - ❤️ **[Health Connect Log](https://play.google.com/store/apps/details?id=com.healthconnectlog.health_connect_log)** - Log preset workouts to Health Connect
+- 🎮 **[ARPG Pulse](https://arpg-pulse.pages.dev/)** - ARPG Games Popularity Radar
 - 🎮
   **[Flutter_2048](https://play.google.com/store/apps/details?id=com.yannickburkard.flutter2048)** -
   2048 game built with Flutter for iOS, Android and Web
