@@ -93,7 +93,7 @@
         <img height="170em" src="https://github-readme-stats-ten-phi-27.vercel.app/api?username=Drarox&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=true&hide=prs&count_private=true" />
 </a>
 <a href="https://github.com/Drarox">
-        <img height="170em" src="https://github-readme-stats-ten-phi-27.vercel.app/api/top-langs/?username=Drarox&layout=compact&theme=tokyonight&hide=java,php" />
+        <img height="170em" src="https://github-readme-stats-ten-phi-27.vercel.app/api/top-langs/?username=Drarox&layout=compact&theme=tokyonight&hide=java,php,html,css" />
 </a>
 
 ## 🤝 Connect with Me
