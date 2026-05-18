@@ -21,6 +21,7 @@
   Privacy-focused browser extension for real-time HyperEVM gas fee tracking
 - 🛠️ **[json2zod](https://json2zod.pages.dev/)** - CLI tool to convert JSON
   structures into Zod schemas with OpenAPI examples
+- 👓 **[ProxyDash](https://hub.docker.com/r/drarox/proxydash)** - A lightweight, self-hosted dashboard for visualising your Nginx reverse-proxy configuration
 - ☀️ **[Enphasy](https://hub.docker.com/r/drarox/enphasy)** - Lightweight
   Enphase data sync tool using cloud API for solar data
 - 🔐 **[SecuSend](https://secusend.eu.org/)** - Send secure encrypted messages
